@@ -1,3 +1,5 @@
+[简体中文](README_zh.md) | [English](README.md)
+
 # CustomHubs
 
 此项目为《Patrick's Parabox》游戏的 mod，支持创建自定义 Hub。使用此项目略显复杂，如果我有什么没说清楚的，随时私信我。
